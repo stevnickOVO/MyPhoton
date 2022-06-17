@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30c86787b5f51114fba33b65eda36a63, type: 3}
+  m_Name: Cop
+  m_EditorClassIdentifier: 
+  characterObject: {fileID: 4063803621779924410, guid: eb79474746600d7469a3d06579c05cb7, type: 3}
+  characterPlayer: {fileID: 7780045238116166258, guid: 1e6fdbe1ee11c2b439e6e2dfc1316ca7, type: 3}
